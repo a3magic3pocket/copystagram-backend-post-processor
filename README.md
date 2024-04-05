@@ -8,3 +8,7 @@
 # How to use
 - Export ObjectIdPostProcessor.java as a jar file.
 - Move the ObjectIdPostProcessor.jar file to the mongoDB Sink Connector plugin directory.
+
+# Last version ObjectIdPostProcessor.jar
+- ObjectIdPostProcessor-0.0.1.jar
+

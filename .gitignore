@@ -35,3 +35,6 @@ replay_pid*
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
+
+# Custom
+!ObjectIdPostProcessor-*.jar
